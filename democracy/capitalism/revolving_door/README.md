@@ -11,3 +11,7 @@ https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/<year\>/<ID\>.pdf
 https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure
 
 Searchable index of transactions by governmental figures
+
+### Specific tracker examples:
+
+https://www.capitoltrades.com/politicians/P000197 - Nancy Pelosi
