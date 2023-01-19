@@ -5,7 +5,9 @@ The revolving door in politics refers to the practice of individuals moving betw
 
 ## Tracking 
 https://efdsearch.senate.gov/search/
-https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/<year>/<ID>.pdf
+
+https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/<year\>/<ID\>.pdf
+  
 https://disclosures-clerk.house.gov/PublicDisclosure/FinancialDisclosure
 
 Searchable index of transactions by governmental figures
